@@ -46,6 +46,4 @@ class TestSolution(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    # unittest.main()
-    solver = Solution()
-    print(solver.lengthOfLongestSubstring("abcabcbb"))
+    unittest.main()
